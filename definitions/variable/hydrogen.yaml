@@ -1,0 +1,15 @@
+# This yaml file adds needed variables for E3M´s model data upload
+
+- Capacity|Hydrogen|Electricity|Alkaline:
+    description: Installed (available) capacity to produce hydrogen from electrolysis using an Alkaline elecrolyser
+    unit: GW
+- Capacity|Hydrogen|Electricity|PEM:
+    description: Installed (available) capacity to produce hydrogen from electrolysis using an Proton Exchange Membrane (PEM) elecrolyser
+    unit: GW
+
+- Capacity|Hydrogen|Hydrogen Storage:
+    description: Installed (available) capacity of hydrogen storage systems
+    unit: GW
+- Capacity|Hydrogen|Hydrogen Storage|Tank:
+    description: Installed (available) capacity of hydrogen using tanks
+    unit: GW
