@@ -1,5 +1,5 @@
 # This yaml file adds needed variables for E3M´s model data upload
 
-- Capacity|CO2|Direct Air Capture:
+- Capacity|Carbon Capture|Direct Air Capture:
     description: Installed (available) capacity to extract CO2 using Direct Air Capture
     unit: Mt CO2/yr
