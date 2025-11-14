@@ -15,15 +15,7 @@
     description: Capacity of installed combined heat and power by Biomass
     unit: GW
 
-- Capacity|Hydrogen|Storage|Tank:
-    description: Available capacity for storage of hydrogen in tanks.
-    unit: GW
-
 - Trade|CO2:
     description: Net exports of CO2 in Mt
     unit: Mt CO2
  
-    
-
-
-     
