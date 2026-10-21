@@ -32,6 +32,11 @@ to faciliate interoperability and reuse of scenario data.
 > the definitions for this project are available for download as an xlsx spreadsheet
 > at http://files.ece.iiasa.ac.at/idesignres/idesignres-template.xlsx.
 
+> [!IMPORTANT]
+> This workflow repository uses definitions and region mappings from the
+> [common-definitions](https://github.com/IAMconsortium/common-definitions) repository.  
+> Check out [nomenclature.yaml](nomenclature.yaml) for the specific configuration.
+
 ### Project nomenclature
 
 The folder `definitions` can contain the project-specific codelists, i.e., list of allowed
@@ -52,6 +57,14 @@ Please make sure to follow the instructions completely, both the _Model mapping_
 
 4. Set [@danielhuppmann](https://github.com/danielhuppmann) and [@phackstock](https://github.com/phackstock) as reviewers.
 5. Once everything is in order we will merge your pull request and your model will be registered.
+
+## Reporting of subannual timeseries
+
+This project supports reporting of timeseries with yearly, datetime and categorical
+timesteps (see [subannual](subannual) for definitions of categorical timeslices).
+For subannual resolution of power generation, the unit `MWh/h` should be used, while
+`EJ/yr` should be used for yearly reporting for consistency and comparability with
+other projects.
 
 ### Workflow
 
