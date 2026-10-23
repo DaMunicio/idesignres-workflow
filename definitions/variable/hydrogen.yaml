@@ -17,7 +17,7 @@
     unit: GW
 
 - Secondary Energy|Hydrogen|Electricity Storage|Tank:
-    description: Hydrogen 
+    description: Hydrogen inyected from tank storage unit
     unit: GWh
 
 - Secondary Energy|Hydrogen|Electricity|Alkaline:
