@@ -12,7 +12,7 @@
     description: Installed (available) capacity of hydrogen storage systems
     unit: GW
     
-- capacity|Hydrogen|Electricity Storage|Tank:
+- Capacity|Hydrogen|Electricity Storage|Tank:
     description: Installed (available) capacity of hydrogen using tanks
     unit: GW
 
